@@ -1,4 +1,4 @@
-# Repositório do Desafio de projeto sobre Git/githun da DIO
+# Repositório do Desafio de projeto sobre Git/Github da DIO
 Primeiro repositório, criado para fazer o desafio de projeto Github
 
 ## Links úteis
